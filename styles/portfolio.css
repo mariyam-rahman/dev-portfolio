@@ -123,6 +123,7 @@ footer {
   display: flex;
   gap: 100px;
   align-items: center;
+  margin-top: 80px;
 }
 .footer-column {
   width: 50%;
